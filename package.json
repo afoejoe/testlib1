@@ -1,0 +1,25 @@
+{
+  "name": "@sc-reactkit/preloader",
+  "version": "2.4.13-alpha-1",
+  "main": "index.js",
+  "jsnext:main": "index.es.js",
+  "module": "index.es.js",
+  "typings": "index.d.ts",
+  "license": "UNLICENSED",
+  "repository": {
+    "url": "git+http://tfs.securitycode.ru/tfs/Design/OPPI/_git/sc-reactkit",
+    "type": "git"
+  },
+  "devDependencies": {
+    "@sc-reactkit/internal": "2.4.13-alpha-1"
+  },
+  "peerDependencies": {
+    "@sc-reactkit/internal": "^2.0.0",
+    "classnames": "2.3.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1 || ^17.0.1",
+    "react-dom": "^16.13.1 || ^17.0.1",
+    "sc-context": "^2.0.0"
+  },
+  "gitHead": "eaf1a669be5e36e83d94ffa925e6cffa92208b77"
+}
